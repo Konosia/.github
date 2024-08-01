@@ -8,6 +8,6 @@
 » Email: `contact@???` (Pas disponible)    
 » Admin: ?
 
-» Discord: `discord.konosia.net`
+» Discord: `discord.konosia.net`    
 » Support: `konosia.net/support`
 
